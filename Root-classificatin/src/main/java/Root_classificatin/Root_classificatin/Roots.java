@@ -43,7 +43,7 @@ class Roots
 		      // the equation has exactly one root
 		     
 		     
-		      roots = Root_Types.Two_roots; 
+		      roots = Root_Types.Equal_roots; 
 		      
 	      } 
 	      else
