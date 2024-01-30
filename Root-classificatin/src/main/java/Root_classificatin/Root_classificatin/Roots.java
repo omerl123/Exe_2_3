@@ -36,7 +36,7 @@ class Roots
       if (a != 0) {
 	      if(q>0 )
 	      {
-		      roots = Root_Types.Equal_roots; 
+		      roots = Root_Types.Two_roots; 
 	      }
 	      else if(q==0)
 	      {
