@@ -55,7 +55,7 @@ class Roots
       }
       else {
     	  
-    	  roots = Root_Types.Two_roots; 
+    	  roots = Root_Types.Not_quadratic; 
       }
    }
 
